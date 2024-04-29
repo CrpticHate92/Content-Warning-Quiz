@@ -1,0 +1,41 @@
+html {
+  background: url("img/content_warning_game.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(70, 66, 66, 0.8);
+  color: white;
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 2px solid white;
+}
+
+button {
+  color: black;
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+  transition: 3s;
+}
+
+#big-slap {
+  width: 500px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: black;
+  transition: 3s;
+}
